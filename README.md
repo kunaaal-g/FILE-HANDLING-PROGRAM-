@@ -24,3 +24,7 @@ Write a C program that demonstrates various file operations. The program should 
 
 ## Deliverable
 A single C program file showcasing the implementation of these file handling operations.
+
+## Output 
+
+![Image](https://github.com/user-attachments/assets/58aa5a49-82a7-444d-b6e1-05854a2dc5d8)
